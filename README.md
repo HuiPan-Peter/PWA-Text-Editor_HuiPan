@@ -28,7 +28,7 @@
 
   ## Usage
 
-  [![Text Editor Screenshot](<1.Browser-InstallApplication.png>)](https://github.com/HuiPan-Peter/PWA-Text-Editor_HuiPan/blob/main/Screenshot/1.Browser-InstallApplication.png.png)
+  [![Text Editor Screenshot](<1.Browser-InstallApplication.png>)](https://github.com/HuiPan-Peter/PWA-Text-Editor_HuiPan/blob/main/Screenshot/1.Browser-InstallApplication.png)
 
   Just Another Text Editor is hosted on Netlify
   [Click here to check out the Netlify deployed site](https://main--charming-meringue-1b215c.netlify.app/)
