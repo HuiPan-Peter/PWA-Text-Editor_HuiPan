@@ -15,7 +15,10 @@
   - [Questions](#questions)
   
   ## Installation
-  No installation necessary! [The app is hosted on heroku](https://)
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/458b2951-afb2-4d9b-89de-0f9bfe29c7b1/deploy-status)](https://app.netlify.com/sites/charming-meringue-1b215c/deploys) 
+ * From the browser, you can click ```Install!``` to run the application to your local machine. 
+
+
   
   If you would like to install to your local machine:
   * `git clone` the repository to your local machine and navigate to the folder in your node terminal
@@ -25,10 +28,10 @@
 
   ## Usage
 
-  [![Text Editor Screenshot](<Screenshot.png>)](https://)
+  [![Text Editor Screenshot](<1.Browser-InstallApplication.png>)](https://github.com/HuiPan-Peter/PWA-Text-Editor_HuiPan/blob/main/Screenshot/1.Browser-InstallApplication.png.png)
 
-  Just Another Text Editor is hosted on heroku
-  [Click here to check out the heroku deployed site](https://)
+  Just Another Text Editor is hosted on Netlify
+  [Click here to check out the Netlify deployed site](https://main--charming-meringue-1b215c.netlify.app/)
 
 
   The app functions as a text editor, allowing text to be entered, edited, and deleted, so start writing some code!
