@@ -27,8 +27,8 @@
   * Navigate to `http://localhost:3000/` inside your browser to check the application on your local machine.
 
   ## Usage
-
-  [![Text Editor Screenshot](<1.Browser-InstallApplication.png>)](https://github.com/HuiPan-Peter/PWA-Text-Editor_HuiPan/blob/main/Screenshot/1.Browser-InstallApplication.png.png)
+  [Click here to see the application usage screenshots & walkthrough demo video](https://github.com/HuiPan-Peter/PWA-Text-Editor_HuiPan/tree/main/Screenshot)
+  ![Text Editor Screenshot](<https://github.com/HuiPan-Peter/PWA-Text-Editor_HuiPan/blob/main/Screenshot/1.Browser-InstallApplication.png>)
 
   Just Another Text Editor is hosted on Netlify
   [Click here to check out the Netlify deployed site](https://main--charming-meringue-1b215c.netlify.app/)
